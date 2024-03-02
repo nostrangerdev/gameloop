@@ -1,7 +1,8 @@
 {
   "name": "@nostranger/gameloop",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A super simple implementation of a game loop",
+  "type": "module",
   "main": "index.js",
   "module": "index.js",
   "exports": "index.js",

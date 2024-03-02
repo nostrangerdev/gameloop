@@ -1,6 +1,8 @@
 # GameLoop
 
-A super simple implementation of a game loop
+![NPM Version](https://img.shields.io/npm/v/%40nostranger%2Fgameloop)
+
+A super simple implementation of a game loop.
 
 ## Usage
 
