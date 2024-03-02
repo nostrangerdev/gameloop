@@ -1,0 +1,25 @@
+{
+  "name": "@nostranger/gameloop",
+  "version": "1.0.0",
+  "description": "A super simple implementation of a game loop",
+  "main": "index.js",
+  "module": "index.js",
+  "exports": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nostrangerdev/gameloop.git"
+  },
+  "keywords": [
+    "game",
+    "gameloop",
+    "library",
+    "utils",
+    "gamedev"
+  ],
+  "author": "NoStranger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nostrangerdev/gameloop/issues"
+  },
+  "homepage": "https://github.com/nostrangerdev/gameloop#readme"
+}
